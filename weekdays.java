@@ -27,7 +27,7 @@ public class weekdays {
         case 7:
             System.out.println("Sunday");
             break;    
-      
+      //hello?
         default:
         System.out.println("That is not a number between 1 to 7");
         break;
