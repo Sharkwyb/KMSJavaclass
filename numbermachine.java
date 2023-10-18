@@ -17,6 +17,16 @@ public class numbermachine {
                 System.out.println("Large negative number");
             else 
                 System.out.println("Small negative number");
-
+        in.close();
     }
 }
+
+
+
+
+//System.out.println("What is wrong with my life");
+/*
+ *  do {
+ * /kill
+ * } while (my phone.equalsIgnorecase(flase))
+ */
