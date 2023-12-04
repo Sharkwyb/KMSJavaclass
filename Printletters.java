@@ -9,7 +9,7 @@ public class Printletters {
         int time = in.nextInt();
         System.out.println("Enter how many lines you want to print");
         int line = in.nextInt();
-        for (line >= 0; line)
+        //for (line >= 0; line)
 
 
     }
